@@ -1,0 +1,192 @@
+
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=mashroom ,calories=0.0, and weight=30.0
+Ingrediant Name=black olive ,calories=15.75, and weight=15.0
+Ingrediant Name=corn ,calories=34.4, and weight=40.0
+Ingrediant Name=pepper ,calories=12.0, and weight=30.0
+Ingrediant Name=oregano ,calories=30.6, and weight=10.0
+]
+Pan Capacity: 700.0, and it's Size: 1, Pizza Type: Vegetarian, Number Of Slices=4, Total Amount Of Calories=665.75, Calories per Slice:166.4375,Total Weight=575.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+]
+Pan Capacity: 700.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=745.0, Calories per Slice:186.25,Total Weight=550.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=359.0, Calories per Slice:89.75,Total Weight=650.0 gm
+Failed To Make Vegetarian Pizza Because An Ingredient  Is Out Of Stock
+An Ingredient Is Out Of Stock. And The User Decided Not To Complete, So The Machine Will Stop Warking Suddenly.
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+Ingrediant Name=tomato ,calories=22.0, and weight=100.0
+]
+Pan Capacity: 700.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=359.0, Calories per Slice:89.75,Total Weight=650.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[Ingrediant Name=tomato ,calories=44.0, and weight=200.0
+Ingrediant Name=tomato ,calories=44.0, and weight=200.0
+]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: Make My Own Pizza, Number Of Slices=6, Total Amount Of Calories=538.0, Calories per Slice:89.66666666666667,Total Weight=700.0 gm
+Failed To Make Make My Own Pizza Pizza Because tomato Is Out Of Stock
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: Make My Own Pizza, Number Of Slices=6, Total Amount Of Calories=450.0, Calories per Slice:75.0,Total Weight=300.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: Make My Own Pizza, Number Of Slices=6, Total Amount Of Calories=450.0, Calories per Slice:75.0,Total Weight=300.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[]
+Pan Capacity: 1800.0, and it's Size: 3, Pizza Type: Make My Own Pizza, Number Of Slices=6, Total Amount Of Calories=450.0, Calories per Slice:75.0,Total Weight=300.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: Make My Own Pizza, Number Of Slices=6, Total Amount Of Calories=450.0, Calories per Slice:75.0,Total Weight=300.0 gm
+Failed To Make Make My Own Pizza Pizza Because tomato Is Out Of Stock
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name= ,calories=0.0, and weight=0.0
+]
+Pan Capacity: 700.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=443.0, Calories per Slice:110.75,Total Weight=350.0 gm
+Failed To Make Make My Own Pizza Pizza Because tomato Is Out Of Stock
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=corn ,calories=34.4, and weight=40.0
+Ingrediant Name=mushroom ,calories=0.0, and weight=0.0
+Ingrediant Name=chili ,calories=6.0, and weight=15.0
+]
+Pan Capacity: 700.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=763.4, Calories per Slice:190.85,Total Weight=505.0 gm
+Failed To Make Make My Own Pizza Pizza Because tomato Is Out Of Stock
+The Total Weight Exeed The Capacity Of The Pan, An Ingredients Are Not Added.
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=chicken ,calories=167.3, and weight=70.0
+Ingrediant Name=pepperoni ,calories=345.8, and weight=70.0
+Ingrediant Name=mushroom ,calories=0.0, and weight=0.0
+Ingrediant Name=corn ,calories=34.4, and weight=40.0
+]
+Pan Capacity: 700.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=1270.5, Calories per Slice:317.625,Total Weight=630.0 gm
+Failed To Make Vegetarian Pizza Because An Ingredient  Is Out Of Stock
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 3,Weight: 450.0,and Calories: 675.0
+ingredients:
+[Ingrediant Name=barbecue sauce ,calories=516.0, and weight=300.0
+Ingrediant Name=mozzarella cheese ,calories=840.0, and weight=300.0
+Ingrediant Name=chicken ,calories=501.9, and weight=210.0
+Ingrediant Name=chili ,calories=18.0, and weight=45.0
+Ingrediant Name=oregano ,calories=91.8, and weight=30.0
+]
+Pan Capacity: 1800.0, and it's Size: 3, Pizza Type: BBQ Chicken, Number Of Slices=8, Total Amount Of Calories=2642.7, Calories per Slice:330.3375,Total Weight=1335.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 3,Weight: 450.0,and Calories: 675.0
+ingredients:
+[Ingrediant Name=barbecue sauce ,calories=516.0, and weight=300.0
+Ingrediant Name=mozzarella cheese ,calories=840.0, and weight=300.0
+Ingrediant Name=chicken ,calories=501.9, and weight=210.0
+Ingrediant Name=chili ,calories=18.0, and weight=45.0
+Ingrediant Name=oregano ,calories=91.8, and weight=30.0
+]
+Pan Capacity: 1800.0, and it's Size: 3, Pizza Type: BBQ Chicken, Number Of Slices=8, Total Amount Of Calories=2642.7, Calories per Slice:330.3375,Total Weight=1335.0 gm
+A Mulfuction Occurred.Try Later, So The Machine Will Stop Warking Suddenly.
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 3,Weight: 450.0,and Calories: 675.0
+ingredients:
+[Ingrediant Name=barbecue sauce ,calories=516.0, and weight=300.0
+Ingrediant Name=mozzarella cheese ,calories=840.0, and weight=300.0
+Ingrediant Name=chicken ,calories=501.9, and weight=210.0
+Ingrediant Name=chili ,calories=18.0, and weight=45.0
+Ingrediant Name=oregano ,calories=91.8, and weight=30.0
+]
+Pan Capacity: 1800.0, and it's Size: 3, Pizza Type: BBQ Chicken, Number Of Slices=8, Total Amount Of Calories=2642.7, Calories per Slice:330.3375,Total Weight=1335.0 gm
+The Total Weight Exeed The Capacity Of The Pan, An Ingredients Are Not Added.
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+]
+Pan Capacity: 600.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=1049.0, Calories per Slice:262.25,Total Weight=550.0 gm
+The Total Weight Exeed The Capacity Of The Pan, An Ingredients Are Not Added.
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+]
+Pan Capacity: 600.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=769.0, Calories per Slice:192.25,Total Weight=550.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 1,Weight: 150.0,and Calories: 225.0
+ingredients:
+[Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+Ingrediant Name=barbecue sauce ,calories=172.0, and weight=100.0
+Ingrediant Name=mozzarella cheese ,calories=280.0, and weight=100.0
+Ingrediant Name=pizza sauce ,calories=46.0, and weight=100.0
+]
+Pan Capacity: 600.0, and it's Size: 1, Pizza Type: Make My Own Pizza, Number Of Slices=4, Total Amount Of Calories=769.0, Calories per Slice:192.25,Total Weight=550.0 gm
+Failed To Make Pepperoni Pizza Because An Ingredient  Is Out Of Stock
+Failed To Make Vegetarian Pizza Because An Ingredient  Is Out Of Stock
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[Ingrediant Name=barbecue sauce ,calories=344.0, and weight=200.0
+Ingrediant Name=mozzarella cheese ,calories=560.0, and weight=200.0
+Ingrediant Name=chicken ,calories=334.6, and weight=140.0
+Ingrediant Name=chili ,calories=12.0, and weight=30.0
+Ingrediant Name=oregano ,calories=61.2, and weight=20.0
+]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: BBQ Chicken, Number Of Slices=6, Total Amount Of Calories=1761.8, Calories per Slice:293.6333333333333,Total Weight=890.0 gm
+A Pizza Has Been Made 
+It's Dough Type is :pan,Size: 2,Weight: 300.0,and Calories: 450.0
+ingredients:
+[Ingrediant Name=barbecue sauce ,calories=344.0, and weight=200.0
+Ingrediant Name=mozzarella cheese ,calories=560.0, and weight=200.0
+Ingrediant Name=chicken ,calories=334.6, and weight=140.0
+Ingrediant Name=chili ,calories=12.0, and weight=30.0
+Ingrediant Name=oregano ,calories=61.2, and weight=20.0
+]
+Pan Capacity: 1500.0, and it's Size: 2, Pizza Type: BBQ Chicken, Number Of Slices=6, Total Amount Of Calories=1761.8, Calories per Slice:293.6333333333333,Total Weight=890.0 gm
